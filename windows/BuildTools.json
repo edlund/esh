@@ -1,0 +1,50 @@
+{
+    "CMake": {
+        "CcPaths": false,
+        "Hash": "MD5:7e32607b41f7fc46325f31d154ceeac8",
+        "Name": "cmake-3.15.4.zip",
+        "Type": "tool",
+        "Uri": "https://github.com/Kitware/CMake/releases/download/v3.15.4/cmake-3.15.4-win64-x64.zip",
+        "Version": "3.15.4-0"
+    },
+    "GccArm": {
+        "CcPaths": true,
+        "Hash": "MD5:5FA382A547ABE0B0D5C0A6E9EAA75C7B",
+        "Name": "gcc-arm-8.3.1.zip",
+        "Type": "compiler",
+        "Uri": "https://developer.arm.com/-/media/Files/downloads/gnu-rm/8-2019q3/RC1.1/gcc-arm-none-eabi-8-2019-q3-update-win32.zip",
+        "Version": "8.3.1-0"
+    },
+    "GccAvr": {
+        "CcPaths": true,
+        "Hash": "MD5:95F6160A51D295ACE31B94864BE43404",
+        "Name": "gcc-avr-5.4.0.zip",
+        "Type": "compiler",
+        "Uri": "https://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en607654",
+        "Version": "5.4.0-0"
+    },
+    "Gdb": {
+        "CcPaths": true,
+        "Hash": "MD5:A9B3165DEEC900E840A9410EE763F26B",
+        "Name": "gdb-8.3.zip",
+        "Type": "debugger",
+        "Uri": "https://iweb.dl.sourceforge.net/project/ezwinports/gdb-8.3-w32-bin.zip",
+        "Version": "8.3.0-0"
+    },
+    "Make": {
+        "CcPaths": true,
+        "Hash": "MD5:619A372AB6FCCAC05AC88F5A01001BA3",
+        "Name": "make-4.2.1.zip",
+        "Type": "compiler",
+        "Uri": "https://iweb.dl.sourceforge.net/project/ezwinports/make-4.2.1-without-guile-w32-bin.zip",
+        "Version": "4.2.1-0"
+    },
+    "OpenOcd": {
+        "CcPaths": true,
+        "Hash": "MD5:B5D8024B2CEBDBDF92067462036B2CDA",
+        "Name": "xpack-openocd-0.10.0-13.zip",
+        "Type": "debugger",
+        "Uri": "https://github.com/xpack-dev-tools/openocd-xpack/releases/download/v0.10.0-13/xpack-openocd-0.10.0-13-win32-x64.zip",
+        "Version": "0.10.0-13"
+    }
+}
